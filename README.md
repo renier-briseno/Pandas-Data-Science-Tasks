@@ -2,7 +2,7 @@
 Set of real world data science tasks completed using the Python Pandas library.
 I forked this repo from KeithGalli.
 
-This repo goes with Keith's (https://youtu.be/eMOA1pPVUc4) on "Solving real world data science videos with Python Pandas!".
+This repo goes with Keith's video(https://youtu.be/eMOA1pPVUc4) on "Solving real world data science videos with Python Pandas!".
 The rest of the information below is an overview of the data science strategy and analysis I will follow along with as I watch the video.
 
 
